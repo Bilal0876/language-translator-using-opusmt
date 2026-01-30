@@ -12,7 +12,7 @@ and a simple web frontend for testing translations.
 ├── language.csv # Dataset for language detection
 ├── templates/ # HTML frontend
 │ └── index.html
-|__ README.md # Project description
+└── README.md # Project description
 
 ## Installation
 
